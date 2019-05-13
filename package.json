@@ -1,0 +1,24 @@
+{
+  "name": "home-page-chrome",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "url": "github.com/aandrii/Home-page-chrome.git",
+    "type": "git"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.5",
+    "del": "^4.1.1",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^4.0.1",
+    "gulp-uglify": "^3.0.2",
+    "node-sass": "^4.9.0"
+  },
+  "dependencies": {
+    "normalize.css": "^8.0.1"
+  }
+}
